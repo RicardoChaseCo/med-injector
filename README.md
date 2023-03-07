@@ -2,7 +2,7 @@
 
 ## Summary
 
-Web Applications can interact with a wireless medical injector in multiple ways: 
+Web/Mobile Applications can interact with a wireless medical injector in multiple ways: 
 * bluetooth
 * Wifi
 * NFC
