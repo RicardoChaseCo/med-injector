@@ -40,7 +40,7 @@ For a medical injector, I can imagine that it has the following things to do wit
 
 * When a user submits the MedicationForm, the new medication data is sent as a POST request to the backend API, which adds the new medication to the fake medication data array. The updated medication data is then returned to the frontend and displayed in the MedicationList component.
 
-### simple demo
+## simple demo
 
 <img src="https://github.com/RicardoChaseCo/med-injector/blob/main/Screenshot%202023-03-07%20at%2011.32.41.png" alt="Image text" width="800">
 
